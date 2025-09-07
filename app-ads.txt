@@ -299,3 +299,4 @@ yeahmobi.com, 5135195, RESELLER
 castify.ai, 1295184, RESELLER
 ignitemediatech.com, pub_11115, RESELLER
 webeyemob.com, 80029, RESELLER
+google.com, pub-7359796030604269, DIRECT, f08c47fec0942fa0
