@@ -1,3 +1,4 @@
+google.com, pub-7359796030604269, DIRECT, f08c47fec0942fa0
 aceex.io, 1926, RESELLER, b1cf3c874d5c6682
 bidease.com, bidease_seller_20, RESELLER
 freewheel.tv, 1601388, RESELLER
@@ -299,4 +300,3 @@ yeahmobi.com, 5135195, RESELLER
 castify.ai, 1295184, RESELLER
 ignitemediatech.com, pub_11115, RESELLER
 webeyemob.com, 80029, RESELLER
-google.com, pub-7359796030604269, DIRECT, f08c47fec0942fa0
